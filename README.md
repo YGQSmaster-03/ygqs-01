@@ -6,11 +6,8 @@
 
 ### **有哪些资源**
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
 > - KR区 : AF/SOOP 100+ 主播直播录像 [点击查看KR主播名单](https://github.com/YGQSmaster-03/ygqs-01/blob/main/KR_ID.md)
->	-	Attention：24年12月份的资源有 3937.9GB 15000+ 视频文件，请保证自己有充足的百度网盘空间，<strong>拿不走的就是吃亏</strong>
-	
+>	-	Attention：24年12月份的资源有 3937.9GB 15000+ 视频文件，请保证自己有充足的百度网盘空间，<strong>拿不走的就是吃亏</strong>	
 >	- 最新一个月19.9 RMB（若当前时间是2024-09-28，最新月份为2024-08）
 >	- 25年1月至最新月的资源 根据最新月份实时调整
 >	- 24年全年资源60000GB+，一次50.24 RMB
