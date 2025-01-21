@@ -1,5 +1,5 @@
 
-## <font color=Blue>***`#FF1493`YGQS at your service***</font>
+## <font color=Blue>***YGQS at your service***</font>
 
 - 所有资源在百度网盘存储(Baidu Netdisk)，均可下载以及在线播放
 
@@ -54,8 +54,9 @@
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
--
-CH
+
+
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 2024年1月-2024年10月 95000G
 2022年11月-2023年12月 108000G
 2022年7月-2022年10月 23201G   
