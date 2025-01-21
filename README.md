@@ -38,6 +38,8 @@
 > [!NOTE]
 > 百度网盘分享链接有过期时间，过期时间在2小时之内的，3天内可回复邮件可再获取一次。
 
+![YGQS赞赏2](https://github.com/user-attachments/assets/9803942f-c1ca-4d6f-b285-4802095cde79)
+
 > [!TIP]
 > Helpful advice for doing things better or more easily.
 
@@ -70,7 +72,7 @@ KR
 2022年11月-2023年12月
 2024年1月-2024年10月
 
-![YGQS赞赏](https://github.com/user-attachments/assets/f858c80d-fdc5-4fb7-aed4-23b3b6e03420)
+![YGQS赞赏2](https://github.com/user-attachments/assets/9803942f-c1ca-4d6f-b285-4802095cde79)
 
 
 22，23年打包，68.88
