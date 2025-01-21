@@ -33,7 +33,7 @@
 
 
 - <font color=red>**支付支持 微信/支付宝**</font>
-<font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
+- <font color=#FF1493 size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
 - <table><tr><td bgcolor=#FF1493>付款后***请备注邮箱 + 所需资源***，资源以邮件方式送达</td></tr></table> 
 - 例如：需要 KR区2024年12月份的资源：
 	- 在付款时 备注上 ***youremail@address.com KR202412*** 
