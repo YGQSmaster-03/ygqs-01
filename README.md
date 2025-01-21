@@ -15,6 +15,7 @@
 >	- 22年全年资源60000GB+，一次50.22 RMB
 >	- 21年全年资源60000GB+，一次50.21 RMB
 >	- 22年+23年资源打包，一次68.88 RMB
+> - 21年+22年+23年资源打包，一次86.66 RMB
 
 
 > [!IMPORTANT]
@@ -53,7 +54,6 @@
 > Advises about risks or negative outcomes of certain actions.
 
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
 2024年1月-2024年10月 95000G
 2022年11月-2023年12月 108000G
 2022年7月-2022年10月 23201G   
@@ -71,8 +71,6 @@ KR
 2022年7月-2022年10月
 2022年11月-2023年12月
 2024年1月-2024年10月
-
-![YGQS赞赏2](https://github.com/user-attachments/assets/9803942f-c1ca-4d6f-b285-4802095cde79)
 
 
 22，23年打包，68.88
