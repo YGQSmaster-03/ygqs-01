@@ -1,5 +1,5 @@
 
-## <font color=Blue>***YGQS at your service***</font>
+## <font color=Blue>***`#FF1493`YGQS at your service***</font>
 
 - 所有资源在百度网盘存储(Baidu Netdisk)，均可下载以及在线播放
 
@@ -38,11 +38,22 @@
 - 例如：需要 KR区2024年12月份的资源：
 	- 在付款时 备注上 ***youremail@address.com KR202412*** 
 	- 付款时忘记备注了，把付款截图 + 所需要的资源 发送至 merhuge@gmail.com 
-- 百度网盘分享链接有过期时间，过期时间在2小时之内的，3天内可回复邮件可再获取一次。
+- 
 
-###怎么选择月份
+> [!NOTE]
+> 百度网盘分享链接有过期时间，过期时间在2小时之内的，3天内可回复邮件可再获取一次。
 
-- 一月份  37203
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 -
 CH
 2024年1月-2024年10月 95000G
