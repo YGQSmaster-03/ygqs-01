@@ -30,7 +30,7 @@
 > [!CAUTION]
 > - 只有单次，无包年/无包月，无惧跑路，信息安全无收集
 > - 国内资源不挂梯子，有百度网盘会员的不限速（百度网盘会员可淘宝按天）
-> - **支付支持 微信/支付宝**
+> - **支付支持 微信Wechat/支付宝Alipay**
 > - 付款后***请备注邮箱 + 所需资源***，资源以邮件方式送达
 > - 例如：需要 KR区2024年12月份的资源：
 >	- 在付款时 备注上 ***youremail@address.com KR202412*** 
@@ -42,41 +42,17 @@
 ![YGQS赞赏2](https://github.com/user-attachments/assets/9803942f-c1ca-4d6f-b285-4802095cde79)
 
 > [!TIP]
-> Helpful advice for doing things better or more easily.
+> 联系方式：merhuge@gmail.com
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
 
 > [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> 25年新春活动：买🇰🇷资源送同等日期的🇨🇳虎牙斗鱼抖音资源，购买后 邮件自动发送
 
 
-2024年1月-2024年10月 95000G
-2022年11月-2023年12月 108000G
-2022年7月-2022年10月 23201G   
-2022年1月-2022年6月 37203G 
-2021年3月-2021年12月 65235G
-2020年7月-2021年2月 44252G
-2019年10月-2020年6月 23776G
 
 
-KR
-2019年10月-2020年6月
-2020年7月-2021年2月
-2021年3月-2021年12月
-2022年1月-2022年6月
-2022年7月-2022年10月
-2022年11月-2023年12月
-2024年1月-2024年10月
 
 
-22，23年打包，68.88
 
-买🇰🇷AF 资源送同等日期的🇨🇳虎牙斗鱼抖音资源
-
-客服联系方式：merhuge@gmail.com
 
 
