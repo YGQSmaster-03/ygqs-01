@@ -1,8 +1,8 @@
 
 ## <font color=Blue>***YGQS at your service***</font>
 
-- 所有资源在百度网盘存储(Baidu Netdisk)，均可下载以及在线播放
-
+> [!重点关注]
+> 所有资源在百度网盘存储(Baidu Netdisk)，均可下载以及在线播放
 
 ### **有哪些资源**
 
