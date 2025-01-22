@@ -33,7 +33,7 @@
 > - **支付支持 微信Wechat/支付宝Alipay**
 > - 付款后***请备注邮箱 + 所需资源***，资源以邮件方式送达
 > - 例如：需要 KR区2024年12月份的资源：
->	- 在付款时 备注上 ***youremail@address.com KR202412***  OR KR2412
+>	- 在付款时 备注上 ***youremail@address.com KR2412***  
 >	- 付款时忘记备注了 或者备注写不下，请把付款截图 + 所需要的资源 发送至 merhuge@gmail.com ，看到后会邮件回复
 
 > [!NOTE]
