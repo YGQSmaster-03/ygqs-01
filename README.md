@@ -4,7 +4,7 @@
 > [!CAUTION]
 > 所有资源在百度网盘存储(Baidu Netdisk)，均可下载以及在线播放
 
-### **有哪些资源**
+### **资源列表[VideoList]**
 > [!IMPORTANT]
 > - KR🇰🇷🇰🇷🇰🇷区 : AF/SOOP 100+ 主播直播录像 [点击查看KR主播名单](https://github.com/YGQSmaster-03/ygqs-01/blob/main/KR_ID.md)
 >	-	Attention：24年12月份的资源有 3937.9GB 15000+ 视频文件，请保证自己有充足的百度网盘空间，<strong>拿不走的就是吃亏</strong>	
