@@ -6,7 +6,7 @@ from scipy.signal import correlate
 import contextlib
 
 """
-@此文件目的是：查找MP4中的音频 和 提供的MP3 文件是否匹配，匹配几次，起止时间
+@此文件目的是：查找MP4中是否含有 提供的MP3音频片段  匹配几次，起止时间
 """
 def extract_audio_from_mp4(mp4_path):
     """
