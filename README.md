@@ -34,13 +34,13 @@
 > - 付款后***请备注邮箱 + 所需资源***，资源以邮件方式送达
 > - 例如：需要 KR区2024年12月份的资源：
 >	- 在付款时 备注上 ***youremail@address.com KR2412***  
->	- 付款时忘记备注了 或者备注写不下，请把付款截图 + 所需要的资源 发送至 merhuge@gmail.com ，看到后会邮件回复
+>	- 付款时忘记备注了 或者备注写不下，请把付款截图 + 所需要的资源 发送至 ygqsmaster@yeah.net ，看到后会邮件回复
 
 > [!NOTE]
 > 百度网盘分享链接有过期时间，***过期时间在2小时之内的，3天内可回复邮件可再获取一次***
 
 > [!TIP]
-> 联系方式：merhuge@gmail.com
+> 联系方式：ygqsmaster@yeah.net
 
 
 ![YGQS赞赏2](https://github.com/user-attachments/assets/9803942f-c1ca-4d6f-b285-4802095cde79)
