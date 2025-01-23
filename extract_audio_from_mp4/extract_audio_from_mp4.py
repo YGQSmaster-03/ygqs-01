@@ -89,6 +89,6 @@ def find_similar_segments(folder_path, mp3_path):
                     print(f"文件名: {file}, 未找到匹配的音频片段。")
 
 # 示例使用
-folder_path = './'
-mp3_path = '123.MP3'
+folder_path = './'   #MP4所在的文件夹
+mp3_path = '123.MP3'  #提供的MP3片段采样
 find_similar_segments(folder_path, mp3_path)
