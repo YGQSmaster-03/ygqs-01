@@ -7,7 +7,9 @@
 ### **资源列表[VideosList]**
 > [!IMPORTANT]
 > - KR🇰🇷🇰🇷🇰🇷区 : AF/SOOP 100+ 主播直播录像 [点击查看KR主播名单](https://github.com/YGQSmaster-03/ygqs-01/blob/main/KR_ID.md)
->	-	Attention：24年12月份的资源有 3937.9GB 15000+ 视频文件，<strong>拿不走的就是吃亏</strong>	
+> - 
+>	-	Attention：24年12月份的资源有 3937.9GB 15000+ 视频文件，<strong>拿不走的就是吃亏</strong>
+> -	
 >	- 25年最新月份的资源 根据最新月份实时调整，请邮件 ygqsmaster@yeah.net 获取
 >	- 24年全年资源60000GB+，一次19.98 RMB
 >	- 21年+22年+23年资源打包(180TB+)，一次68.88 RMB
@@ -17,6 +19,7 @@
 
 > [!IMPORTANT]
 > - CH🇨🇳🇨🇳🇨🇳区 : 抖音/虎牙/斗鱼 200+ 主播直播录像 [点击查看CH主播名单](https://github.com/YGQSmaster-03/ygqs-01/blob/main/CH_ID.md)
+> - 
 >	- 25年最新月份的资源 根据最新月份实时调整，请邮件 ygqsmaster@yeah.net 获取
 >	- 24年全年资源120000GB+，一次19.94 RMB
 >	- 23年全年资源108000GB+，一次19.93 RMB
