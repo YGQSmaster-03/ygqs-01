@@ -36,6 +36,7 @@
 > [!TIP]
 > 联系方式：ygqsmaster@yeah.net
 
+![YGQS赞赏2](https://github.com/YGQSmaster-03/ygqs-01/blob/main/YGQS.png)
 
 
 
